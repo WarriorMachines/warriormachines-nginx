@@ -1,6 +1,6 @@
 # warriormachines/warriormachines-nginx
 
-FROM nginx:1.9.7
+FROM nginx:1.9.10
 
 MAINTAINER "Austin Maddox" <austin@maddoxbox.com>
 
